@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Visually-Fly/static/css/main.cb72d163.css",
+    "main.js": "/Visually-Fly/static/js/main.109f6024.js",
+    "static/js/453.d962fa3c.chunk.js": "/Visually-Fly/static/js/453.d962fa3c.chunk.js",
+    "index.html": "/Visually-Fly/index.html",
+    "main.cb72d163.css.map": "/Visually-Fly/static/css/main.cb72d163.css.map",
+    "main.109f6024.js.map": "/Visually-Fly/static/js/main.109f6024.js.map",
+    "453.d962fa3c.chunk.js.map": "/Visually-Fly/static/js/453.d962fa3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb72d163.css",
+    "static/js/main.109f6024.js"
+  ]
+}
